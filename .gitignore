@@ -1,0 +1,36 @@
+.vercel
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+
+# Flask instance folder
+instance/
+
+# Configuration files
+*.env
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Database files
+*.sqlite3
+
+# Other files
+*.pyc
+*.pyo
+*.pyd
+
+models/
